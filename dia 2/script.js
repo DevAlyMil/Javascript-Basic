@@ -1,0 +1,1 @@
+console.log("Day 2 - Leraned Git and Github")
